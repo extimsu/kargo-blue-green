@@ -6,7 +6,7 @@ metadata:
 spec:
   vars:
   - name: repoURL
-    value: https://github.com/akuity/kargo-blue-green.git
+    value: https://github.com/extimsu/kargo-blue-green.git
   - name: image
     value: ghcr.io/akuity/rollouts-demo
   - name: replicaCount
